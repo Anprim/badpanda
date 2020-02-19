@@ -1,0 +1,17 @@
+Parts
+
+Case:
+Store: 	https://www.lattepanda.com/products/titan-case-for-lattepanda-alphadelta.html
+Demensions 	120*87*26 mm
+
+Screen:
+Store:		https://www.lattepanda.com/products/5.html
+Demensions:	180*110*5 mm
+		https://www.dropbox.com/s/5tmc35qaw0rkj4h/Touch%20screen%20dimension.dwg?dl=0
+
+Board:
+Store:		https://www.lattepanda.com/products/lattepanda-alpha-864s.html
+Demensions:	https://www.dropbox.com/s/xl1x8b8ktcmfbm5/LattePanda%20Alpha%203D%20Model_181023.stp?dl=0
+
+Keyeboard:	--todo--
+
